@@ -1,0 +1,212 @@
+2019-11-29 01:09:05,691 - DownloadWorker INFO get_product_data() 461:	 The review count is less than 5(ProductID: 4000300359182). So continue
+2019-11-29 01:09:06,828 - DownloadWorker INFO get_product_data() 461:	 The review count is less than 5(ProductID: 4000292159898). So continue
+2019-11-29 01:09:07,683 - DownloadWorker INFO get_product_data() 461:	 The review count is less than 5(ProductID: 4000288265413). So continue
+2019-11-29 01:09:08,364 - DownloadWorker INFO get_product_data() 461:	 The review count is less than 5(ProductID: 4000292340420). So continue
+2019-11-29 01:09:09,073 - DownloadWorker INFO get_product_data() 461:	 The review count is less than 5(ProductID: 4000190454014). So continue
+2019-11-29 01:09:09,607 - DownloadWorker INFO get_product_data() 461:	 The review count is less than 5(ProductID: 32909068019). So continue
+2019-11-29 01:09:10,145 - DownloadWorker INFO get_product_data() 461:	 The review count is less than 5(ProductID: 4000165862306). So continue
+2019-11-29 01:09:10,447 - DownloadWorker INFO get_product_data() 461:	 The review count is less than 5(ProductID: 32997624926). So continue
+2019-11-29 01:09:10,545 - DownloadWorker INFO get_product_data() 461:	 The review count is less than 5(ProductID: 4000324453687). So continue
+2019-11-29 01:09:10,979 - DownloadWorker INFO get_product_data() 461:	 The review count is less than 5(ProductID: 4000314631158). So continue
+2019-11-29 01:09:11,976 - DownloadWorker INFO get_product_data() 461:	 The review count is less than 5(ProductID: 4000382120969). So continue
+2019-11-29 01:09:12,157 - DownloadWorker INFO get_product_data() 461:	 The review count is less than 5(ProductID: 4000271704103). So continue
+2019-11-29 01:09:12,405 - DownloadWorker INFO get_product_data() 461:	 The review count is less than 5(ProductID: 4000175601736). So continue
+2019-11-29 01:09:13,391 - DownloadWorker INFO get_product_data() 461:	 The review count is less than 5(ProductID: 4000232651554). So continue
+2019-11-29 01:09:19,993 - DownloadWorker INFO get_product_data() 615:	 Got product data(ProductID: 4000224091328).
+2019-11-29 01:09:20,387 - DownloadWorker INFO get_product_data() 615:	 Got product data(ProductID: 32998880348).
+2019-11-29 01:09:22,249 - DownloadWorker INFO get_product_data() 615:	 Got product data(ProductID: 32955094654).
+2019-11-29 01:09:22,773 - DownloadWorker INFO get_product_data() 615:	 Got product data(ProductID: 4000235060219).
+2019-11-29 01:09:23,134 - DownloadWorker INFO get_product_data() 615:	 Got product data(ProductID: 32835315731).
+2019-11-29 01:09:23,147 - DownloadWorker INFO get_product_data() 615:	 Got product data(ProductID: 4000188970490).
+2019-11-29 01:09:23,335 - DownloadWorker INFO get_product_data() 615:	 Got product data(ProductID: 33007755179).
+2019-11-29 01:09:23,480 - DownloadWorker INFO get_product_data() 615:	 Got product data(ProductID: 4000122086912).
+2019-11-29 01:09:23,782 - DownloadWorker INFO get_product_data() 615:	 Got product data(ProductID: 32965634586).
+2019-11-29 01:09:25,779 - DownloadWorker INFO get_product_data() 615:	 Got product data(ProductID: 32959072612).
+2019-11-29 01:09:27,411 - DownloadWorker INFO get_product_data() 615:	 Got product data(ProductID: 32983122040).
+2019-11-29 01:09:28,582 - DownloadWorker INFO get_product_data() 615:	 Got product data(ProductID: 32903245882).
+2019-11-29 01:09:32,236 - DownloadWorker INFO get_product_data() 615:	 Got product data(ProductID: 4000163686594).
+2019-11-29 01:11:39,963 - DownloadWorker INFO get_product_data() 461:	 The review count is less than 5(ProductID: 4000292074478). So continue
+2019-11-29 01:11:40,795 - DownloadWorker INFO get_product_data() 461:	 The review count is less than 5(ProductID: 4000341614931). So continue
+2019-11-29 01:11:41,046 - DownloadWorker INFO get_product_data() 461:	 The review count is less than 5(ProductID: 4000346052483). So continue
+2019-11-29 01:11:41,263 - DownloadWorker INFO get_product_data() 461:	 The review count is less than 5(ProductID: 33038949091). So continue
+2019-11-29 01:11:42,119 - DownloadWorker INFO get_product_data() 461:	 The review count is less than 5(ProductID: 4000241888660). So continue
+2019-11-29 01:11:42,963 - DownloadWorker INFO get_product_data() 461:	 The review count is less than 5(ProductID: 4000219110163). So continue
+2019-11-29 01:11:43,595 - DownloadWorker INFO get_product_data() 461:	 The review count is less than 5(ProductID: 4000136842865). So continue
+2019-11-29 01:11:44,171 - DownloadWorker INFO get_product_data() 461:	 The review count is less than 5(ProductID: 33055614106). So continue
+2019-11-29 01:11:44,219 - DownloadWorker INFO get_product_data() 461:	 The review count is less than 5(ProductID: 32960779314). So continue
+2019-11-29 01:11:44,372 - DownloadWorker INFO get_product_data() 461:	 The review count is less than 5(ProductID: 4000292257850). So continue
+2019-11-29 01:11:47,698 - DownloadWorker INFO get_product_data() 461:	 The review count is less than 5(ProductID: 4000193903372). So continue
+2019-11-29 01:11:53,273 - DownloadWorker INFO get_product_data() 461:	 The review count is less than 5(ProductID: 4000162343362). So continue
+2019-11-29 01:11:55,242 - DownloadWorker INFO get_product_data() 615:	 Got product data(ProductID: 33062834605).
+2019-11-29 01:11:56,471 - DownloadWorker INFO get_product_data() 615:	 Got product data(ProductID: 32844713811).
+2019-11-29 01:11:56,638 - DownloadWorker INFO get_product_data() 615:	 Got product data(ProductID: 4000073630810).
+2019-11-29 01:11:58,309 - DownloadWorker INFO get_product_data() 615:	 Got product data(ProductID: 4000080694706).
+2019-11-29 01:11:58,434 - DownloadWorker INFO get_product_data() 615:	 Got product data(ProductID: 32879547961).
+2019-11-29 01:11:58,796 - DownloadWorker INFO get_product_data() 615:	 Got product data(ProductID: 4000259340602).
+2019-11-29 01:11:58,920 - DownloadWorker INFO get_product_data() 615:	 Got product data(ProductID: 32940608404).
+2019-11-29 01:11:59,236 - DownloadWorker INFO get_product_data() 615:	 Got product data(ProductID: 32820727422).
+2019-11-29 01:12:00,141 - DownloadWorker INFO get_product_data() 615:	 Got product data(ProductID: 32982504078).
+2019-11-29 01:12:01,451 - DownloadWorker INFO get_product_data() 615:	 Got product data(ProductID: 33056474058).
+2019-11-29 01:12:01,509 - DownloadWorker INFO get_product_data() 615:	 Got product data(ProductID: 33010768268).
+2019-11-29 01:12:01,855 - DownloadWorker INFO get_product_data() 615:	 Got product data(ProductID: 33053563396).
+2019-11-29 01:12:01,903 - DownloadWorker INFO get_product_data() 615:	 Got product data(ProductID: 32843006822).
+2019-11-29 01:12:06,898 - DownloadWorker INFO get_product_data() 615:	 Got product data(ProductID: 32911273866).
+2019-11-29 01:12:07,062 - DownloadWorker INFO get_product_data() 615:	 Got product data(ProductID: 32823977651).
+2019-11-29 01:12:07,721 - DownloadWorker INFO get_product_data() 615:	 Got product data(ProductID: 32961071520).
+2019-11-29 01:19:42,683 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000292159898). So continue
+2019-11-29 01:19:48,608 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000222998776). So continue
+2019-11-29 01:19:49,482 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000314631158). So continue
+2019-11-29 01:19:50,668 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000175601736). So continue
+2019-11-29 01:19:54,104 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000288265413). So continue
+2019-11-29 01:19:55,424 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000300359182). So continue
+2019-11-29 01:19:58,210 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000231046147). So continue
+2019-11-29 01:20:01,913 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 32968274551). So continue
+2019-11-29 01:20:03,308 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000271704103). So continue
+2019-11-29 01:20:04,102 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000287360182). So continue
+2019-11-29 01:20:04,430 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 32954718085). So continue
+2019-11-29 01:20:04,700 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000366983314). So continue
+2019-11-29 01:20:04,903 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000281988267). So continue
+2019-11-29 01:20:04,914 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000232651554). So continue
+2019-11-29 01:20:05,424 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000236118065). So continue
+2019-11-29 01:20:05,648 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000234581730). So continue
+2019-11-29 01:20:06,565 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000165862306). So continue
+2019-11-29 01:20:06,648 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000382120969). So continue
+2019-11-29 01:20:09,059 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000317185716). So continue
+2019-11-29 01:20:10,640 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 33030907407).
+2019-11-29 01:20:11,035 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 32903245882).
+2019-11-29 01:20:11,332 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 4000136929809).
+2019-11-29 01:20:11,335 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 32998880348).
+2019-11-29 01:20:12,266 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 32997624926). So continue
+2019-11-29 01:20:12,834 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000044916939). So continue
+2019-11-29 01:20:14,058 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 32955094654).
+2019-11-29 01:20:14,319 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000299286117). So continue
+2019-11-29 01:20:14,986 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 33007755179).
+2019-11-29 01:20:15,029 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 4000192580457).
+2019-11-29 01:20:15,703 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 32884621435).
+2019-11-29 01:20:15,765 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 4000227825366).
+2019-11-29 01:20:15,901 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 32983122040).
+2019-11-29 01:20:18,117 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 4000224091328).
+2019-11-29 01:20:20,778 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 4000122086912).
+2019-11-29 01:20:22,940 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000292340420). So continue
+2019-11-29 01:20:28,851 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 4000188970490).
+2019-11-29 01:20:29,878 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 32965634586).
+2019-11-29 01:20:32,351 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 4000235060219).
+2019-11-29 01:20:33,517 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 32909068019). So continue
+2019-11-29 01:20:34,086 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000190454014). So continue
+2019-11-29 01:20:35,703 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 32970464915).
+2019-11-29 01:20:35,885 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 32835315731).
+2019-11-29 01:22:22,838 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 32959072612).
+2019-11-29 01:23:02,967 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000346052483). So continue
+2019-11-29 01:23:06,385 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 33046157391). So continue
+2019-11-29 01:23:06,484 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000188712239). So continue
+2019-11-29 01:23:06,851 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000121686314). So continue
+2019-11-29 01:23:07,322 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000136018257). So continue
+2019-11-29 01:23:07,683 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000337269128). So continue
+2019-11-29 01:23:07,724 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000349968501). So continue
+2019-11-29 01:23:08,625 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000086501042). So continue
+2019-11-29 01:23:08,663 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000127521582). So continue
+2019-11-29 01:23:08,877 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000219110163). So continue
+2019-11-29 01:23:08,894 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000292284791). So continue
+2019-11-29 01:23:11,312 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000216664893). So continue
+2019-11-29 01:23:12,611 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000281988267). So continue
+2019-11-29 01:23:16,005 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 32954718085). So continue
+2019-11-29 01:23:17,667 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000044916939). So continue
+2019-11-29 01:23:18,716 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 32974166625).
+2019-11-29 01:23:20,349 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 33030614784).
+2019-11-29 01:23:20,506 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 4000122086912).
+2019-11-29 01:23:20,637 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 32957764814).
+2019-11-29 01:23:22,426 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 33030907407).
+2019-11-29 01:23:22,457 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 4000156069276).
+2019-11-29 01:23:22,750 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 4000045859619).
+2019-11-29 01:23:25,938 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 4000259328309).
+2019-11-29 01:29:10,345 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000165862306). So continue
+2019-11-29 01:29:12,401 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000292340420). So continue
+2019-11-29 01:29:12,730 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000292159898). So continue
+2019-11-29 01:29:13,586 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000314631158). So continue
+2019-11-29 01:29:13,822 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000288265413). So continue
+2019-11-29 01:29:14,187 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000222998776). So continue
+2019-11-29 01:29:14,451 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000300359182). So continue
+2019-11-29 01:29:14,937 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000236118065). So continue
+2019-11-29 01:29:15,453 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000175601736). So continue
+2019-11-29 01:29:15,535 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 32997624926). So continue
+2019-11-29 01:29:15,996 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000317185716). So continue
+2019-11-29 01:29:17,647 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 32909068019). So continue
+2019-11-29 01:29:20,020 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000299286117). So continue
+2019-11-29 01:29:21,536 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 32962539471). So continue
+2019-11-29 01:29:22,039 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000234581730). So continue
+2019-11-29 01:29:24,933 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 4000117835864).
+2019-11-29 01:29:25,288 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 4000235060219).
+2019-11-29 01:29:25,911 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 32835315731).
+2019-11-29 01:29:26,272 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 32983122040).
+2019-11-29 01:29:27,677 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 32959072612).
+2019-11-29 01:29:27,756 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 4000122086912).
+2019-11-29 01:29:29,265 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 4000122191876).
+2019-11-29 01:29:31,390 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 33007755179).
+2019-11-29 01:30:10,546 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000346052483). So continue
+2019-11-29 01:30:10,595 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000366983314). So continue
+2019-11-29 01:30:11,217 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000287360182). So continue
+2019-11-29 01:30:11,272 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000292284791). So continue
+2019-11-29 01:30:12,507 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000127521582). So continue
+2019-11-29 01:30:13,746 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000190454014). So continue
+2019-11-29 01:30:13,841 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000296512286). So continue
+2019-11-29 01:30:14,269 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000219110163). So continue
+2019-11-29 01:30:16,128 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 32954718085). So continue
+2019-11-29 01:30:17,411 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000216664893). So continue
+2019-11-29 01:30:17,624 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000044916939). So continue
+2019-11-29 01:30:24,917 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 4000122086912).
+2019-11-29 01:30:25,359 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 4000180259480).
+2019-11-29 01:30:25,737 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 32978224717).
+2019-11-29 01:30:26,532 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 4000065307551).
+2019-11-29 01:30:27,900 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 32844713811).
+2019-11-29 01:30:28,128 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 33062834605).
+2019-11-29 01:30:28,559 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 32843060067).
+2019-11-29 01:30:28,757 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 32970464915).
+2019-11-29 01:30:28,815 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 32866567628).
+2019-11-29 01:30:29,046 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 4000259328309).
+2019-11-29 01:30:29,150 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 33030907407).
+2019-11-29 01:30:29,313 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 32974166625).
+2019-11-29 01:30:29,453 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 32961071520).
+2019-11-29 01:30:29,489 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 32919266338).
+2019-11-29 01:32:04,915 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000121686314). So continue
+2019-11-29 01:32:07,950 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000042120942). So continue
+2019-11-29 01:32:10,223 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000170431045). So continue
+2019-11-29 01:32:11,914 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000292340420). So continue
+2019-11-29 01:32:12,354 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000188712239). So continue
+2019-11-29 01:32:12,961 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000339808130). So continue
+2019-11-29 01:32:13,460 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 32950144368). So continue
+2019-11-29 01:32:14,644 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 33027502005). So continue
+2019-11-29 01:32:15,250 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000108524900). So continue
+2019-11-29 01:32:15,413 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000263434365). So continue
+2019-11-29 01:32:16,263 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000283696321). So continue
+2019-11-29 01:32:17,036 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000023449712). So continue
+2019-11-29 01:32:17,378 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000311111051). So continue
+2019-11-29 01:32:17,424 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000284708247). So continue
+2019-11-29 01:32:17,644 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000349968501). So continue
+2019-11-29 01:32:17,730 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000086501042). So continue
+2019-11-29 01:32:17,828 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000026104212). So continue
+2019-11-29 01:32:17,839 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000153202290). So continue
+2019-11-29 01:32:17,865 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000232769551). So continue
+2019-11-29 01:32:17,979 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000050099307). So continue
+2019-11-29 01:32:18,266 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000210038648). So continue
+2019-11-29 01:32:19,473 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 4000282346810). So continue
+2019-11-29 01:32:23,993 - DownloadWorker INFO get_product_data() 465:	 The review count is less than 5(ProductID: 32910129120). So continue
+2019-11-29 01:32:30,111 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 33050128912).
+2019-11-29 01:32:30,186 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 33010993171).
+2019-11-29 01:32:30,609 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 32946869184).
+2019-11-29 01:32:30,622 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 32848080434).
+2019-11-29 01:32:30,674 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 4000045859619).
+2019-11-29 01:32:34,209 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 32919833739).
+2019-11-29 01:32:34,323 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 32963997819).
+2019-11-29 01:32:34,890 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 4000192580457).
+2019-11-29 01:32:35,137 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 4000142105120).
+2019-11-29 01:32:35,247 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 32813585534).
+2019-11-29 01:32:35,460 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 32729136072).
+2019-11-29 01:32:35,746 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 32962201907).
+2019-11-29 01:32:35,938 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 32848449627).
+2019-11-29 01:32:36,052 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 4000259328309).
+2019-11-29 01:32:36,378 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 33053563396).
+2019-11-29 01:32:36,382 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 32998826246).
+2019-11-29 01:32:36,530 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 32961071520).
+2019-11-29 01:32:36,927 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 33010768268).
+2019-11-29 01:32:38,648 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 32917761125).
+2019-11-29 01:32:39,424 - DownloadWorker INFO get_product_data() 619:	 Got product data(ProductID: 4000065307551).
